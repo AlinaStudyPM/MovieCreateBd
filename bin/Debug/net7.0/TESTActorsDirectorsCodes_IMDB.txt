@@ -1,0 +1,9 @@
+tt0000005	1	nm0000024	actor	\N	["Blacksmith"]
+tt0000005	2	nm0000026	actor	\N	["Assistant"]
+tt0000005	3	nm0000021	director	\N	\N
+tt0000007	1	nm0000027	actor	\N	\N
+tt0000007	2	nm0000028	actor	\N	\N
+tt0000010	1	nm0000022	director	\N	\N
+tt0000008	2	nm0000028	actor	\N	\N
+tt0000001	3	nm0000021	director	\N	\N
+tt0000002	3	nm0000021	director	\N	\N

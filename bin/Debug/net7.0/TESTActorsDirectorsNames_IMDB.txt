@@ -1,0 +1,9 @@
+nm0000021	Joan Fontaine	1917	2013
+nm0000022	Clark Gable	1901	1960
+nm0000023	Judy Garland	1922	1969
+nm0000024	John Gielgud	1904	2000
+nm0000025	Jerry Goldsmith	1929	2004
+nm0000026	Cary Grant	1904	1986
+nm0000027	Alec Guinness	1914	2000
+nm0000028	Rita Hayworth	1918	1987
+nm0000029	Rita Hayworth	1918	1987

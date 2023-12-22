@@ -1,0 +1,10 @@
+tt0000001	0	Carmencita	US	\N	\N	\N	0
+tt0000002	0	Бедный Пьеро	RU	\N	\N	\N	0
+tt0000003	0	Den förstfödde	SE	\N	imdbDisplay	\N	0
+tt0000004	0	Away All Boats	GB	\N	imdbDisplay	\N	0
+tt0000005	0	Buddy's Song	GB	\N	\N	\N	0
+tt0000006	0	Без чувств	RU	\N	\N	\N	0
+tt0000007	0	The Deadly Camp	XWW	en	imdbDisplay	\N	0
+tt0000008	0	Kiss Me If You Dare	GB	\N	imdbDisplay	\N	0
+tt0000009	0	Desert	US	\N	\N	\N	0
+tt0000010	0	The Hall	GB	\N	\N	\N	0
